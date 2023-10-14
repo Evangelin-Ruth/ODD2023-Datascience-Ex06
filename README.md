@@ -88,6 +88,8 @@ plt.show()
 ![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/fac9a53a-f60c-4fb5-a62f-169bedaf6944)
 ![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/fe95cf8f-da06-4dd9-bb54-2e1c42c252c4)
 ![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/1dbff59a-37a3-4c75-ae2f-ab5a2753b2fb)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/4e8a0cca-2481-46e3-a2b1-92efa56e2bd6)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/c3496958-0a07-486c-88c1-3f6c8fbbc3fa)
 
 
 
