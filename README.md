@@ -86,4 +86,15 @@ plt.show()
 ![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/ddc6d7cf-3522-4a5f-81f8-035edb9182c4)
 ![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/d5b1595a-fef6-44b0-8738-18a6d7a8e5ef)
 ![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/fac9a53a-f60c-4fb5-a62f-169bedaf6944)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/13a8b31b-6254-437d-97f9-18db3f6dadbe)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/c89ae7e9-4a41-496d-94db-5e8a48fb771a)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/83fb611b-2ff0-4050-905d-efb04637c1a5)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/edd427eb-7410-4f79-bd81-35ac4e879885)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/758c8d13-24fa-44aa-ab1f-3941d9391382)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/1ad8f5cf-6f0e-4716-acd7-30bb91efdf13)
+![image](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex06/assets/94219798/8f32b981-6bed-4a84-96ce-2278fd2ebb25)
+
+## RESULT:
+Thus feature transformation is done for the given dataset.
+
 
